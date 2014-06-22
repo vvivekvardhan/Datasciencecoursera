@@ -1,5 +1,2 @@
-HELLO WORLD
-============================
-
-My Sample @ Coursera
+## This is a markdown file
 
